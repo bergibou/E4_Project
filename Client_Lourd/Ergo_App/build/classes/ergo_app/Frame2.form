@@ -213,7 +213,7 @@
                       <Group type="102" alignment="0" attributes="0">
                           <EmptySpace min="-2" pref="22" max="-2" attributes="0"/>
                           <Component id="jLabel2" min="-2" pref="34" max="-2" attributes="0"/>
-                          <EmptySpace pref="9" max="32767" attributes="0"/>
+                          <EmptySpace pref="15" max="32767" attributes="0"/>
                           <Group type="103" groupAlignment="0" attributes="0">
                               <Group type="102" alignment="0" attributes="0">
                                   <Group type="103" groupAlignment="0" max="-2" attributes="0">
@@ -231,7 +231,7 @@
                                           <Component id="jLabel8" min="-2" pref="14" max="-2" attributes="0"/>
                                       </Group>
                                   </Group>
-                                  <EmptySpace min="0" pref="6" max="32767" attributes="0"/>
+                                  <EmptySpace min="0" pref="12" max="32767" attributes="0"/>
                               </Group>
                               <Group type="102" alignment="0" attributes="0">
                                   <Group type="103" groupAlignment="3" attributes="0">
@@ -247,7 +247,6 @@
                                   </Group>
                               </Group>
                           </Group>
-                          <EmptySpace type="separate" max="-2" attributes="0"/>
                           <Group type="103" groupAlignment="3" attributes="0">
                               <Component id="jTextField9" alignment="3" min="-2" max="-2" attributes="0"/>
                               <Component id="jLabel12" alignment="3" min="-2" max="-2" attributes="0"/>
@@ -269,7 +268,7 @@
                               <Component id="jScrollPane1" min="-2" pref="41" max="-2" attributes="0"/>
                               <Component id="jButton1" min="-2" pref="41" max="-2" attributes="0"/>
                           </Group>
-                          <EmptySpace pref="25" max="32767" attributes="0"/>
+                          <EmptySpace pref="31" max="32767" attributes="0"/>
                       </Group>
                   </Group>
                 </DimensionLayout>
@@ -396,7 +395,7 @@
                 <Component class="javax.swing.JComboBox" name="jComboBox3">
                   <Properties>
                     <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
-                      <StringArray count="86">
+                      <StringArray count="112">
                         <StringItem index="0" value="AAAA"/>
                         <StringItem index="1" value="2015"/>
                         <StringItem index="2" value="2014"/>
@@ -483,6 +482,32 @@
                         <StringItem index="83" value="1932"/>
                         <StringItem index="84" value="1931"/>
                         <StringItem index="85" value="1930"/>
+                        <StringItem index="86" value="1929"/>
+                        <StringItem index="87" value="1928"/>
+                        <StringItem index="88" value="1927"/>
+                        <StringItem index="89" value="1926"/>
+                        <StringItem index="90" value="1925"/>
+                        <StringItem index="91" value="1924"/>
+                        <StringItem index="92" value="1925"/>
+                        <StringItem index="93" value="1926"/>
+                        <StringItem index="94" value="1927"/>
+                        <StringItem index="95" value="1926"/>
+                        <StringItem index="96" value="1925"/>
+                        <StringItem index="97" value="1924"/>
+                        <StringItem index="98" value="1923"/>
+                        <StringItem index="99" value="1922"/>
+                        <StringItem index="100" value="1921"/>
+                        <StringItem index="101" value="1920"/>
+                        <StringItem index="102" value="1919"/>
+                        <StringItem index="103" value="1918"/>
+                        <StringItem index="104" value="1917"/>
+                        <StringItem index="105" value="1916"/>
+                        <StringItem index="106" value="1915"/>
+                        <StringItem index="107" value="1914"/>
+                        <StringItem index="108" value="1913"/>
+                        <StringItem index="109" value="1912"/>
+                        <StringItem index="110" value="1911"/>
+                        <StringItem index="111" value="1910"/>
                       </StringArray>
                     </Property>
                     <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
